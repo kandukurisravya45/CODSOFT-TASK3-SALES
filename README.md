@@ -117,14 +117,6 @@ The dataset contains information related to sales performance such as:
 
 ---
 
-## 🔮 Future Enhancements
-• Try advanced regression algorithms  
-• Improve prediction accuracy using hyperparameter tuning  
-• Add more features to the dataset  
-• Deploy the model using Flask or Streamlit  
-
----
-
 ## 🤝 Contributing
 • Contributions are welcome  
 • Feel free to fork the repository and submit a pull request  
